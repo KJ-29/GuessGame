@@ -1,6 +1,6 @@
 import random
 
-
+print("Let's play a game!") 
 
 def computer_guess(x):
     low = 1
