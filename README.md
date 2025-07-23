@@ -1,6 +1,6 @@
 # GuessGame
 
-A fun and interactive Python game where the **computer tries to guess the number you're thinking of**, using your feedback.
+This is a fun and interactive Python game where the **computer tries to guess the number you're thinking of** ,using your feedback.
 
 ## How it Works
 
