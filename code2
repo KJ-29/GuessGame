@@ -1,5 +1,6 @@
 import random
 
+print("Think of a number between 1 to 1000 and I will guess it for you")
 print("Let's play a game!") 
 
 def computer_guess(x):
